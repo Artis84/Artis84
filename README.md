@@ -15,5 +15,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
-### 😂 Random Dev Meme
+### 😂 Random Dev Meme (refresh the page for a new one)
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
